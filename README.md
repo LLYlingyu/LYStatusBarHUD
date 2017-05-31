@@ -2,9 +2,9 @@
 一个简单的状态栏指示器
 
 ## 显示成功信息
-、、、objc
+‘’‘objc
 [LYStatusBarHUD showSuccess:@"加载成功"];
-、、、
+’‘’
 
 ## 显示失败信息
 ...
