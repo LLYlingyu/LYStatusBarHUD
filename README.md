@@ -7,7 +7,8 @@
 ...
 
 ## 显示失败信息
-...objc
+...
+objc
 [LYStatusBarHUD showError:@"加载失败"];
 ...
 
