@@ -27,7 +27,7 @@ static NSTimer *timer_;
     window_.hidden = YES;
 
     CGFloat windowH = 20;
-    CGRect frame = CGRectMake(0, -windowH, [UIScreen mainScreen].bounds.size.width, 20);
+    CGRect frame = CGRectMake(0, -windowH, [UIScreen mainScreen].bounds.size.width, windowH);
     
     // 添加窗口
     window_ = [[UIWindow alloc] init];
